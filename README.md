@@ -4,5 +4,5 @@ Reference papers:
 1) Approximating Dynamic Global Illumination in Image Space (SSDO)
 2) Hardware Accelerated Ambient Occlusion Techniques on GPUs (SSAO)
 
-Due to the base-code could not be published, only images of output could be found here.
-Later I will finish my own version render, and based on this render to transfer the implementation of SSDO. (maybe optimization as well)
+Due to the base-code from course could not be published, only images of output could be found here.
+Later I will create my own version render, and base on this render to transfer the implementation of SSDO. (maybe optimization as well)
